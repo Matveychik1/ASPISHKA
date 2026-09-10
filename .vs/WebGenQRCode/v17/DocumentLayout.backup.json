@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\migrations\\20260910071118_addqrcodetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\migrations\\20260910071118_addqrcodetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\data\\appqrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\data\\appqrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\data\\entities\\identity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\data\\entities\\identity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\helpers\\jsondata\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\helpers\\jsondata\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\data\\entities\\identity\\qrcodeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\data\\entities\\identity\\qrcodeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\models\\account\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\models\\account\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\models\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\models\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\services\\imageoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\services\\imageoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\models\\seeder\\seederusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\models\\seeder\\seederusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\models\\users\\useritemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\models\\users\\useritemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\constans\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\constans\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\data\\entities\\identity\\userroleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\data\\entities\\identity\\userroleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\data\\entities\\identity\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\data\\entities\\identity\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|c:\\users\\coder\\desktop\\it\\aspnet\\webgenqrcode\\webgenqrcode\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B4A9FAD-DDE7-4B78-88E2-0FE5DA797443}|WebGenQRCode\\WebGenQRCode.csproj|solutionrelative:webgenqrcode\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260910071118_AddQrCodeTables.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Migrations\\20260910071118_AddQrCodeTables.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Migrations\\20260910071118_AddQrCodeTables.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Migrations\\20260910071118_AddQrCodeTables.cs",
+              "RelativeToolTip": "WebGenQRCode\\Migrations\\20260910071118_AddQrCodeTables.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:11:19.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QrCodeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\Entities\\Identity\\QrCodeEntity.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Data\\Entities\\Identity\\QrCodeEntity.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\Entities\\Identity\\QrCodeEntity.cs",
+              "RelativeToolTip": "WebGenQRCode\\Data\\Entities\\Identity\\QrCodeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T07:08:50.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.json",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Helpers\\JsonData\\Users.json",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Helpers\\JsonData\\Users.json",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Helpers\\JsonData\\Users.json",
+              "RelativeToolTip": "WebGenQRCode\\Helpers\\JsonData\\Users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-03T06:18:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\Entities\\Identity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Data\\Entities\\Identity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\Entities\\Identity\\UserEntity.cs",
+              "RelativeToolTip": "WebGenQRCode\\Data\\Entities\\Identity\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T10:06:26.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppQrDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\AppQrDbContext.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Data\\AppQrDbContext.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\AppQrDbContext.cs",
+              "RelativeToolTip": "WebGenQRCode\\Data\\AppQrDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T10:09:47.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebGenQRCode\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T09:54:10.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "WebGenQRCode\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:51:40.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Program.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Program.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Program.cs",
+              "RelativeToolTip": "WebGenQRCode\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T09:25:27.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Models\\Account\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Models\\Account\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Models\\Account\\RegisterModel.cs",
+              "RelativeToolTip": "WebGenQRCode\\Models\\Account\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T08:24:40.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "WebGenQRCode\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:49:38.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Interfaces\\IImageService.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Interfaces\\IImageService.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Interfaces\\IImageService.cs",
+              "RelativeToolTip": "WebGenQRCode\\Interfaces\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T09:30:11.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\appsettings.json",
+              "RelativeDocumentMoniker": "WebGenQRCode\\appsettings.json",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\appsettings.json",
+              "RelativeToolTip": "WebGenQRCode\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-01T09:43:34.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImageOptimizationService.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Services\\ImageOptimizationService.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Services\\ImageOptimizationService.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Services\\ImageOptimizationService.cs",
+              "RelativeToolTip": "WebGenQRCode\\Services\\ImageOptimizationService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEMAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T09:33:11.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SeederUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Models\\Seeder\\SeederUserModel.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Models\\Seeder\\SeederUserModel.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Models\\Seeder\\SeederUserModel.cs",
+              "RelativeToolTip": "WebGenQRCode\\Models\\Seeder\\SeederUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T06:34:31.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebGenQRCode\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T07:13:12.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Models\\Account\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Models\\Account\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Models\\Account\\LoginModel.cs",
+              "RelativeToolTip": "WebGenQRCode\\Models\\Account\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T08:26:44.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Constans\\Roles.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Constans\\Roles.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Constans\\Roles.cs",
+              "RelativeToolTip": "WebGenQRCode\\Constans\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T06:42:20.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRoleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\Entities\\Identity\\UserRoleEntity.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Data\\Entities\\Identity\\UserRoleEntity.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\Entities\\Identity\\UserRoleEntity.cs",
+              "RelativeToolTip": "WebGenQRCode\\Data\\Entities\\Identity\\UserRoleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T10:08:23.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\Entities\\Identity\\RoleEntity.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Data\\Entities\\Identity\\RoleEntity.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Data\\Entities\\Identity\\RoleEntity.cs",
+              "RelativeToolTip": "WebGenQRCode\\Data\\Entities\\Identity\\RoleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T10:03:33.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Models\\Users\\UserItemModel.cs",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Models\\Users\\UserItemModel.cs",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Models\\Users\\UserItemModel.cs",
+              "RelativeToolTip": "WebGenQRCode\\Models\\Users\\UserItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T07:10:23.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebGenQRCode\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\CODER\\Desktop\\it\\aspnet\\WebGenQRCode\\WebGenQRCode\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebGenQRCode\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-01T09:28:34.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
